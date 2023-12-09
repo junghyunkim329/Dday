@@ -31,18 +31,6 @@ button {
   transition: background-color 0.3s ease;
 }
 
-#studyButton {
-  background-color: #E8334E;
-  color: white;
-  font-weight: bold;
-  transition: background-color 0.3s ease;
-}
-
-#studyButton a {
-  color: white;
-  text-decoration: none;
-}
-
 
 /* 화면 크기가 작을 때의 스타일 */
 @media (max-width: 768px) {
